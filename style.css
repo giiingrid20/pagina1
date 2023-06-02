@@ -1,0 +1,39 @@
+table, td, th {
+    border: 2px solid black;
+}
+
+.redes {
+    background-color: aqua;
+}
+
+.portugues {
+    background-color: rgb(240, 77, 77);
+}
+
+.matematica {
+    background-color: rgb(121, 204, 121);
+}
+
+.filosofia {
+    background-color: rosybrown;
+}
+
+.historia {
+    background-color: brown;
+}
+
+.manut {
+    background-color: gray;
+}
+
+.quimica {
+    background-color: violet;
+}
+
+.Autoria {
+    background-color: rgb(158, 108, 216);
+}
+
+.biologia {
+    background-color: yellowgreen;
+}
